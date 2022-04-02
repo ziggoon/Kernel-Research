@@ -1,1 +1,0 @@
-cmd_/home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.ko /home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.o /home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.mod.o;  true
