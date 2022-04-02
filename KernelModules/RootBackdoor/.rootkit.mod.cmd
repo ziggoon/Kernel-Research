@@ -1,0 +1,1 @@
+cmd_/home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.mod := { echo  /home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.o;  echo; } > /home/vagrant/Kernel-Research/KernelModules/RootBackdoor/rootkit.mod
